@@ -1,6 +1,6 @@
 # ifrudyardkipling
 
-A new Flutter project.
+A verse
 
 ## Getting Started
 
